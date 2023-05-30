@@ -1,5 +1,5 @@
 # Group C
-# Members
+## Members
 - Juan Posso
 - Juan Arellano
 - Javier Revelo
