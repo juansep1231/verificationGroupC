@@ -1,4 +1,4 @@
-# verificationGroup
+# Group C
 # Members
 - Juan Posso
 - Juan Arellano
